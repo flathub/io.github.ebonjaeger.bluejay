@@ -42,8 +42,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/EbonJaeger/bluejay/archive/refs/tags/v1.0.2.tar.gz",
-                    "sha256": "3306c1dcbb1bd8bc6b5c0e1cc9a8f9c53eedeb019cbf09196362526081cf8bf8",
+                    "url": "https://github.com/EbonJaeger/bluejay/archive/refs/tags/v1.0.3.tar.gz",
+                    "sha256": "126300cf0accfc7dcc057af55b03e0805d6089a9dbb54ee339263b57525aa772",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 376504,
