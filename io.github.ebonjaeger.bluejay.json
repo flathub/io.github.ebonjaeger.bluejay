@@ -27,7 +27,7 @@
                         "type": "anitya",
                         "project-id": 376504,
                         "stable-only": true,
-                        "url-template": "https://github.com/EbonJaeger/bluejay/archive/refs/tags/v$version.tar.xz"
+                        "url-template": "https://github.com/EbonJaeger/bluejay/archive/refs/tags/v$version.tar.gz"
                     }
                 }
             ]
